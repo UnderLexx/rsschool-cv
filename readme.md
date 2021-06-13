@@ -1,1 +1,1 @@
-https://github.com/UnderLexx/github.io/rsschool-cv/cv
+https://github.com/UnderLexx/rsschool-cv/blob/gh-pages/cv.md
